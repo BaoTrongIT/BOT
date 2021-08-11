@@ -1,0 +1,125 @@
+{
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "selfListen": false,
+    "commandDisabled": [
+        "imageberver.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "koqxzzprig@workingtall.com",
+    "PASSWORD": "hao19832003",
+    "OTPKEY": "",
+    "BOTNAME": "𝐋𝐚𝐳𝐢𝐜 𝐁𝐨𝐭 𝐊𝐚𝐧𝐳𝐮",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100042817150429",
+        "100069937789232",
+        "100030329056617",
+        "100043693936140",
+        "100050212283459"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 500
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rankup": {
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCVMYw1fiUj-CzP2wGKZLaClRWKEuQ6q4k",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true,
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "ghep": {
+        "cooldownTime": 30
+    },
+    "pay": {
+        "cooldownTime": 1200000
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "games": {
+        "cooldownTime": 30
+    },
+    "gamess": {
+        "cooldownTime": 30
+    },
+    "gamesss": {
+        "cooldownTime": 30
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "warn": {
+        "cooldownTime": 30
+    },
+    "warn01": {
+        "cooldownTime": 30
+    },
+    "sim": {
+        "APIKEY": "TEST2208"
+    },
+    "adminup": {
+        "enable": true
+    },
+    "checkall": {
+        "maxColumn": 10
+    },
+    "check": {
+        "maxColumn": 10
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "reallove": {
+        "cooldownTime": 3000000000000000
+    },
+    "img": {
+        "APIKEY": ""
+    }
+}
